@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9ed101b-dab1-4afb-a5a4-f48e6678401c" name="Changes" comment="Added python demo files">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dremio Demo/DremioApplicationAtotiJDBC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/Dremio Demo/DremioApplicationAtotiJDBC.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dremio Demo/content/content.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/Dremio Demo/content/content.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dremio Demo/content/content.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/Dremio Demo/content/content.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flight-sql-jdbc-driver-10.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/flight-sql-jdbc-driver-10.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jdbc-driver-wrapper-build" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle Tasks" flag="true" />
+      <visibility group="Maven Goals" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+    </myKeys>
+    <option name="myCommands">
+      <command value="mvn install:install-file -Dfile=flight-sql-jdbc-driver-10.0.0.jar -DgroupId=com.dremio-driver -DartifactId=flight-sql-jdbc-driver -Dversion=10.0.0 -Dpackaging=jar " />
+      <command value="mvn clean compile assembly:single" />
+      <command value="mvn dependency:tree -Dincludes=org.slf4j " />
+      <command value="mvn clean package" />
+      <command value="mvn clean install -U " />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="flight-sql-jdbc-driver-10.0.0.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/flight-sql-jdbc-driver-10.0.0.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="dremio-atoti-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="dremio-atoti-test" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.flight-sql-jdbc-driver-10.0.0.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9ed101b-dab1-4afb-a5a4-f48e6678401c" name="Changes" comment="" />
+      <created>1709744645923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709744645923</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1709890696509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709890696510</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1709891129905</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709891129905</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added python demo files">
+      <option name="closed" value="true" />
+      <created>1709891329246</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709891329246</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Added python demo files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added python demo files" />
+  </component>
+</project>
