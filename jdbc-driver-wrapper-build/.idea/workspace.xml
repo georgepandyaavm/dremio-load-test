@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9ed101b-dab1-4afb-a5a4-f48e6678401c" name="Changes" comment="Added python demo files">
-      <change beforePath="$PROJECT_DIR$/Python Dremio Demo/.ipynb_checkpoints/DremioApplicationAtotiJDBC-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Dremio Demo/.ipynb_checkpoints/DremioApplicationAtotiJDBC-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Dremio Demo/DremioApplication.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Dremio Demo/DremioApplication.ipynb" afterDir="false" />
+    <list default="true" id="d9ed101b-dab1-4afb-a5a4-f48e6678401c" name="Changes" comment="Dremio connector working">
       <change beforePath="$PROJECT_DIR$/Python Dremio Demo/DremioApplicationAtotiJDBC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Dremio Demo/DremioApplicationAtotiJDBC.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python Dremio Demo/logging/server.log" beforeDir="false" afterPath="$PROJECT_DIR$/Python Dremio Demo/logging/server.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/workspace.xml" afterDir="false" />
@@ -114,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709892413010</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dremio connector working">
+      <option name="closed" value="true" />
+      <created>1710167837027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710167837027</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dremio connector working">
+      <option name="closed" value="true" />
+      <created>1710167856473</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710167856473</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added python demo files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added python demo files" />
+    <MESSAGE value="Dremio connector working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dremio connector working" />
   </component>
 </project>
