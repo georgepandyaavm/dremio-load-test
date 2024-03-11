@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9ed101b-dab1-4afb-a5a4-f48e6678401c" name="Changes" comment="Added python demo files">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dremio Demo/DremioApplicationAtotiJDBC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/Dremio Demo/DremioApplicationAtotiJDBC.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dremio Demo/content/content.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/Dremio Demo/content/content.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dremio Demo/content/content.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/Dremio Demo/content/content.trace.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flight-sql-jdbc-driver-10.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/flight-sql-jdbc-driver-10.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Dremio Demo/.ipynb_checkpoints/DremioApplicationAtotiJDBC-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Dremio Demo/.ipynb_checkpoints/DremioApplicationAtotiJDBC-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Dremio Demo/DremioApplication.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Dremio Demo/DremioApplication.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Dremio Demo/DremioApplicationAtotiJDBC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Dremio Demo/DremioApplicationAtotiJDBC.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Dremio Demo/logging/server.log" beforeDir="false" afterPath="$PROJECT_DIR$/Python Dremio Demo/logging/server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-driver-wrapper-build/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709891329246</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added python demo files">
+      <option name="closed" value="true" />
+      <created>1709892413010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709892413010</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
